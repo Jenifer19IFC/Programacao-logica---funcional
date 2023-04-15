@@ -7,7 +7,7 @@ verificaPertence lista valor =
 
 main = do
     let lista = [1,2,3,4]
-    print(verificaPertence lista 4)
+    print(verificaPertence lista 1)
 
     
 

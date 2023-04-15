@@ -18,5 +18,5 @@ def verificaPertence (lista, valor):
     else:
         return lista
 
-print(verificaPertence(lista,10))
+print(verificaPertence(lista,4))
 
