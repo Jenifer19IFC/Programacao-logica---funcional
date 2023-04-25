@@ -2,7 +2,7 @@
 -- São funções que podem retornar ou receber outras 
 -- funções como parâmetro
 
--- FUNÇÕES ANÔNIMAS
+-- FUNÇÕES ANÔNIMAS >> \
 -- São funções que não têm um nome associado
 -- e são definidas, geralmente, dentro de 
 -- outra expressão
