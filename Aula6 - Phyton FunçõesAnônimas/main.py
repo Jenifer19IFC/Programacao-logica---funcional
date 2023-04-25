@@ -40,7 +40,4 @@ print(soma)
 maior = reduce(lambda x,y: x if x > y else y, lista)
 print(maior)
 
-# historico
-# como funciona
-# pode por exemplos de aula
-# 10 páginas no máximo
+
