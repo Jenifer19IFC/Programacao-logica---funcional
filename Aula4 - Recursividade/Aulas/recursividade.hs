@@ -6,6 +6,7 @@ media n1 n2
 
 -- Recursividade - forma 1
 soma n = if n == 1 then 1 else n + soma(n-1)
+
 -- Vê que não é um então soma (n-1)
 
 -- Forma 2

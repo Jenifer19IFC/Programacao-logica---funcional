@@ -66,8 +66,8 @@ main = do
     -- foldl: usado para reduzir uma lista de valores a um
     -- único valor
 
-    print("foldl - do final para o início [LEFT >> right]")
-    print("foldr - do início para o final[RIGHT >> left]")
+    print("foldl - do início para o final [LEFT >> right]")
+    print("foldr - do final para o início[RIGHT >> left]")
     let somatorio = foldl (+) 0 lista -- 0 é o valor inicial no qual os valores serão somados
     print(somatorio)
 

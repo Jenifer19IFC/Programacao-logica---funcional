@@ -1,6 +1,7 @@
 -- Mostra o dobro de cada elemento de uma lista
 dobro [] = []
 dobro(x:xs) = 2 * x : dobro xs
+
 -- Começa com []
 -- Depois empilha tudo, retirando a cabeça
 -- Quando desempilha multiplica por dois

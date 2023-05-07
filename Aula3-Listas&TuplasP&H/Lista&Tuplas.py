@@ -1,5 +1,5 @@
 lista = [1,2,4,5]
-int(lista)
+# int(lista)
 print(lista[3]) # printar um índice
 
 # Geração de listas
@@ -25,7 +25,7 @@ print(novaLista3)
 # Tuplas 
 tupla1 = ("Geografia", 23,"IFC","IFC")
 print(tupla1[0])
-print(tupla1.index("Geografia")) # diz que índice o elemento está
+print(tupla1.index("IFC")) # diz que índice o elemento está
 print(tupla1.count(23)) # conta quantos elementos do parâmetro há na lista
 print(tupla1.count("IFC")) # conta quantos elementos do parâmetro há na lista
 

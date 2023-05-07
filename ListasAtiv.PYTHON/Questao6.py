@@ -38,4 +38,3 @@ def geraLista():
 print(geraLista())
 
 
-
