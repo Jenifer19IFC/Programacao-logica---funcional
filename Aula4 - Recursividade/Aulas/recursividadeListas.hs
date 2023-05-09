@@ -29,6 +29,7 @@ tamanho (x:xs) = 1 + tamanho xs
 -- 1 + tamanho [] ==> 1 + 0 = 0
 -- [] ==> 0
 
-main = do
-    print(tamanho[2,4,3])
+main = do 
+    let lista = [2,4,3]
+    print(tamanho lista)
 
